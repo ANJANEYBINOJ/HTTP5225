@@ -29,5 +29,35 @@
 
 
     ?>
+
+    <?php
+    $students1 = array(
+     'Anjaney',
+     'Fenil',
+     'Iqbal');
+
+    $students2['first'] = 'Anjaney';
+    $students2['last'] = 'Binoj';
+
+
+    echo $students1[0];
+    echo '      ';
+
+    echo $students2 ['last'];
+
+    
+
+    
+   
+
+
+    ?>
+
+
+
+
+
+
+
 </body>
 </html>
